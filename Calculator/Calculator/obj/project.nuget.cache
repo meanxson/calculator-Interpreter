@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ov+o+k6hSH59kE79xODpH91OA9ILp076UIFqscraF4l9+jefSoJIF+wzSL1JJov06ps3Uf6zn9CWvTZael6G8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meanx\\RiderProjects\\CalculatorInterpretator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meanx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

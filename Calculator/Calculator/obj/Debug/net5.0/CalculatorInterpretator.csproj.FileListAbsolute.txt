@@ -1,0 +1,16 @@
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\bin\Debug\net5.0\CalculatorInterpretator.exe
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\bin\Debug\net5.0\CalculatorInterpretator.deps.json
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\bin\Debug\net5.0\CalculatorInterpretator.runtimeconfig.json
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\bin\Debug\net5.0\CalculatorInterpretator.runtimeconfig.dev.json
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\bin\Debug\net5.0\CalculatorInterpretator.dll
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\bin\Debug\net5.0\ref\CalculatorInterpretator.dll
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\bin\Debug\net5.0\CalculatorInterpretator.pdb
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\obj\Debug\net5.0\CalculatorInterpretator.csproj.AssemblyReference.cache
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\obj\Debug\net5.0\CalculatorInterpretator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\obj\Debug\net5.0\CalculatorInterpretator.AssemblyInfoInputs.cache
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\obj\Debug\net5.0\CalculatorInterpretator.AssemblyInfo.cs
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\obj\Debug\net5.0\CalculatorInterpretator.csproj.CoreCompileInputs.cache
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\obj\Debug\net5.0\CalculatorInterpretator.dll
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\obj\Debug\net5.0\ref\CalculatorInterpretator.dll
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\obj\Debug\net5.0\CalculatorInterpretator.pdb
+C:\Users\meanx\RiderProjects\CalculatorInterpretator\CalculatorInterpretator\obj\Debug\net5.0\CalculatorInterpretator.genruntimeconfig.cache
