@@ -35,10 +35,13 @@ namespace CalculatorInterpretator.Controller
                 }
                 catch (Exception)
                 {
+                    
                     UserOutput = "Error";
                 }
 
+                Console.ForegroundColor = UserOutput == "Error" ? ConsoleColor.Red : ConsoleColor.Green;
                 Console.WriteLine(">>> " + UserOutput);
+                Console.ResetColor();
             }
         }
 
