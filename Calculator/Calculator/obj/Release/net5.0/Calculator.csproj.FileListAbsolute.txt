@@ -1,0 +1,16 @@
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\bin\Release\net5.0\Calculator.exe
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\bin\Release\net5.0\Calculator.deps.json
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\bin\Release\net5.0\Calculator.runtimeconfig.json
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\bin\Release\net5.0\Calculator.runtimeconfig.dev.json
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\bin\Release\net5.0\Calculator.dll
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\bin\Release\net5.0\ref\Calculator.dll
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\bin\Release\net5.0\Calculator.pdb
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\obj\Release\net5.0\Calculator.csproj.AssemblyReference.cache
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\obj\Release\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\obj\Release\net5.0\Calculator.AssemblyInfoInputs.cache
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\obj\Release\net5.0\Calculator.AssemblyInfo.cs
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\obj\Release\net5.0\Calculator.csproj.CoreCompileInputs.cache
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\obj\Release\net5.0\Calculator.dll
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\obj\Release\net5.0\ref\Calculator.dll
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\obj\Release\net5.0\Calculator.pdb
+F:\Projects\Unity\LearnProjects\calculator-interpreter\Calculator\Calculator\obj\Release\net5.0\Calculator.genruntimeconfig.cache

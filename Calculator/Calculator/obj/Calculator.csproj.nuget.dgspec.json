@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meanx\\RiderProjects\\CalculatorInterpretator\\Calculator\\Calculator.csproj": {}
+    "F:\\Projects\\Unity\\LearnProjects\\calculator-interpreter\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meanx\\RiderProjects\\CalculatorInterpretator\\Calculator\\Calculator.csproj": {
+    "F:\\Projects\\Unity\\LearnProjects\\calculator-interpreter\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meanx\\RiderProjects\\CalculatorInterpretator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "F:\\Projects\\Unity\\LearnProjects\\calculator-interpreter\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\meanx\\RiderProjects\\CalculatorInterpretator\\Calculator\\Calculator.csproj",
+        "projectPath": "F:\\Projects\\Unity\\LearnProjects\\calculator-interpreter\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\meanx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meanx\\RiderProjects\\CalculatorInterpretator\\Calculator\\obj\\",
+        "outputPath": "F:\\Projects\\Unity\\LearnProjects\\calculator-interpreter\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\meanx\\AppData\\Roaming\\NuGet\\NuGet.Config",

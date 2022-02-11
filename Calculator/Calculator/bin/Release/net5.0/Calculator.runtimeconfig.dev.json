@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\meanx\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\meanx\\.nuget\\packages"
+    ]
+  }
+}
